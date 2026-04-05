@@ -22,24 +22,8 @@ SQLite – Lightweight database
 JDBC (sqlite-jdbc.jar) – Database connectivity
 
 
-📂 Project Structure
-├── Main.java
-├── gui/
-│   ├── LoginFrame.java
-│   ├── AdminFrame.java
-│   └── EmployeeFrame.java
-├── model/
-│   ├── Admin.java
-│   ├── Employee.java
-│   └── LeaveRequest.java
-├── service/
-│   ├── AdminService.java
-│   ├── EmployeeService.java
-│   └── LeaveService.java
-├── util/
-│   └── DataStore.java
-├── hrms.db
-├── sqlite-jdbc.jar
+<img width="288" height="375" alt="image" src="https://github.com/user-attachments/assets/a7269d69-b197-4a1b-b102-cb3b71a833c4" />
+
 
 ⚙️ How to Run the Project
 
