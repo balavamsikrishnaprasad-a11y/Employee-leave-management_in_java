@@ -29,7 +29,7 @@ JDBC (sqlite-jdbc.jar) – Database connectivity
 
 1️⃣ Clone the Repository
 git clone https://github.com/balavamsikrishnaprasad-a11y/Employee-leave-management_in_java.git
-cd your-repo-name
+cd Employee-leave-management_in_java
 
 2️⃣ Compile the Project
 javac -cp ".;sqlite-jdbc.jar" Main.java
